@@ -8,7 +8,7 @@
 
 ## Codec
 - Serge Y. Stroobandt, ON4AA, for devising the protocol and Python codec algorithms.
-- Folkert Tijdens, PA0FOT, for contributing [`codec.cpp`](https://aprs438.readthedocs.io/en/latest/codec.html#codec-c) and asking the right questions, rendering this document more scholarly
+- Folkert Tijdens, PA0FOT, for contributing {ref}`codec.cpp <protocol:codec-c>` and asking the right questions, rendering this document more scholarly
 - Matthias Brändli, HB9EGM, for contributing the Arduino C implementation of the `tttt` codec algorithm.
 - Pascal Schiks, PA3FKM, for providing insights about microcontroller stacks
 
