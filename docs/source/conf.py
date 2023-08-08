@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'APRS 438 Terminal'
-copyright = 'CC-BY 4.0, Ricardo Guzman Christie, CD2RXU'
-author = 'Ricardo Guzman Christie, CD2RXU'
+copyright = 'CC-BY 4.0, Ricardo Guzmán Christie, CD2RXU'
+author = 'Ricardo Guzmán Christie, CD2RXU'
 
 release = ''
 version = ''
