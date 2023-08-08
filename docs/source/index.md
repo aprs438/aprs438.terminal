@@ -15,8 +15,8 @@ the 438&nbsp;MHz amateur radio LoRa [automatic packet reporting system](https://
 Other documents:
 
 - [Protocol](https://aprs438.readthedocs.io/en/latest/index.html) documentation
-- Tracker documentation
-- i-gate documentation
+- [Tracker](https://aprs438-tracker.readthedocs.io/en/latest/index.html) documentation
+- [i-gate](https://aprs438-i-gate.readthedocs.io/en/latest/index.html) documentation
 
 :::{caution}
 Unlike the vast majority of [other LoRa projects](https://thethingsnetwork.org), the firmware of this project employs **licensed frequency spectrum** exclusive to the use of [amateur radio](https://en.wikipedia.org/wiki/Amateur_radio). **You need a valid amateur radio license to be able to use APRS 438 firmware.**
